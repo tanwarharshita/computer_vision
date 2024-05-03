@@ -44,31 +44,11 @@ Q7: Line and paper detection
 ![codespace](./output_line_detection.jpg)
 
 
-![codespace](./output_paper_detection_line.jpg)
-
-
-![codespace](./output_paper_detection_rotate.jpg)
-
-
-![codespace](./output_paper_detection_shear.jpg)
-
-
-![codespace](./output_paper_detection_region.jpg)
+![codespace](./paper_test_50_99.jpg)
 
 
 Q8: Image segmentation by global thresholding
 
 
-![codespace](./output_segmentation.jpg)
-
-
 Q9: Circle detection
 
-
-![codespace](./output_circle_detection_all.jpg)
-
-
-![codespace](./output_circle_detection_largest.jpg)
-
-
-![codespace](./output_circle_detection_sorted.jpg)
